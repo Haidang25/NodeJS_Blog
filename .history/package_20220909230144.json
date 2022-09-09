@@ -1,0 +1,31 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haidang25/NodeJS_Blog.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "nodejs",
+    "blog"
+  ],
+  "author": "dangnh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haidang25/NodeJS_Blog/issues"
+  },
+  "homepage": "https://github.com/Haidang25/NodeJS_Blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
